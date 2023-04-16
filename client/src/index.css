@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+
+html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+  font-family: "Inter", sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #0d0d0d;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #0d0d0d;
+}
+
+/* Handle on Hover */
+::-webkit-scrollbar-track:hover {
+  background: #222223;
+}
+.css-1i4g9ng{
+  max-height: 55px !important;
+  max-width: 50px !important;  
+}
+.css-19nzcwv{
+font-size: 33px;
+}
+.css-1r8jtu2-MuiButtonBase-root-MuiListItemButton-root:active{
+background-color: #7a7f9d;
+
+}
+.css-1k9snjs{
+  margin: 0.5rem 0rem 1rem 1rem !important;
+}
+.css-7cet5v-MuiDrawer-docked .MuiDrawer-paper{
+  background-color: #19191a !important;
+  color: #ffffff !important;
+}
+.css-8tuymw{
+  background: #19191a !important;
+}
+.css-i9gxme{
+  background: #19191a !important;
+}
+.css-1gfd3lq{
+  background: #19191a !important;
+}
+.css-oclsgy{
+  background: #000000 !important;
+}
+.css-1w1xfvp{
+  background: #000000 !important;
+
+}
+.css-169zady{
+  background: #000000 !important;
+}
+.css-204u17-MuiDataGrid-main{
+  background: #000000 !important;
+}
+.css-jac2oh-MuiDataGrid-root{
+  background: #000000 !important;
+}
+.css-1kwdphh-MuiDataGrid-virtualScrollerContent{
+  background: #000000 !important;
+}
+.css-8krixu-MuiDataGrid-columnHeaders{
+  background: #272626 !important;
+}
+.css-1vxmrlv-MuiPaper-root-MuiAppBar-root{
+  background: #000000 !important;
+}
+.css-n830jf-MuiDataGrid-footerContainer{
+  background: #272626 !important;
+}
+.css-lz68tr{
+  background: #000000 !important;
+}
+.css-5s7lc-MuiPaper-root-MuiCard-root{
+  background: #000000 !important;
+}
+.css-1omog99{
+  background: #272626 !important;
+}
+.css-qufx6a{
+  background: #272626 !important;
+}
